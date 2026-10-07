@@ -141,7 +141,7 @@ function App() {
           <h2>From interface<br /><em>to implementation.</em></h2>
           <div className="skills-list">
             <div className="skill-group"><span>Frontend</span><p>ReactJS · HTML · CSS · JavaScript</p></div>
-            <div className="skill-group"><span>Backend & frameworks</span><p>NestJS · PHP · Laravel · Django</p></div>
+            <div className="skill-group"><span>Backend & databases</span><p>NestJS · MySQL · PHP · Laravel · Django</p></div>
             <div className="skill-group"><span>Software development</span><p>Python · Java</p></div>
             <div className="skill-group"><span>AI-assisted development</span><p>Claude Code · GitHub Copilot · OpenCode · Codex</p></div>
           </div>
